@@ -1,5 +1,6 @@
 # multiple-ds18b20-mqtt
 This is an example of connecting multiple ds18b20 sensors to wemos d1 r1 board and sending them through mqtt.
+The dallas temperature library and the pubsubclient library are required.
 
 ![498-8_bb](https://user-images.githubusercontent.com/106683637/175771327-81c50064-08d3-4bfc-ac7d-b46226ed45f6.jpg)
 
