@@ -1,6 +1,8 @@
 # multiple-ds18b20-mqtt
 This is an example of connecting multiple ds18b20 sensors to wemos d1 r1 board and sending them through mqtt.
 
+![498-8_bb](https://user-images.githubusercontent.com/106683637/175771327-81c50064-08d3-4bfc-ac7d-b46226ed45f6.jpg)
+
 Below is a video of the final result! Sorry, it's in Korean!
 
 [![Video Label](http://img.youtube.com/vi/O6YCD7KxLMA/0.jpg)](https://youtu.be/O6YCD7KxLMA?t=6290)
